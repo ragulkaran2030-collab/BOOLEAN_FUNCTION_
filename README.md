@@ -57,6 +57,7 @@ Output:
 
 Wave image:
 [experiment2.pdf](https://github.com/user-attachments/files/23739010/experiment2.pdf)
+
 Result:
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
